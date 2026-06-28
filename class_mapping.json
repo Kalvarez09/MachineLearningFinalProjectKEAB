@@ -1,0 +1,9 @@
+{
+  "Corner_Kick": 0,
+  "Free_Kick": 1,
+  "Penalty_kick": 2,
+  "Red_Card": 3,
+  "Yellow_Card": 4,
+  "substitute": 5,
+  "tackle": 6
+}

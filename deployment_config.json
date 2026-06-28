@@ -1,0 +1,21 @@
+{
+  "model_file": "best_football_classifier.keras",
+  "best_model_name": "convnext",
+  "image_size": [
+    224,
+    224
+  ],
+  "class_names": [
+    "Corner_Kick",
+    "Free_Kick",
+    "Penalty_kick",
+    "Red_Card",
+    "Yellow_Card",
+    "substitute",
+    "tackle"
+  ],
+  "input_pixel_range": [
+    0,
+    255
+  ]
+}
