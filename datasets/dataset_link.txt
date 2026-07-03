@@ -1,0 +1,5 @@
+Dataset source:
+https://www.kaggle.com/datasets/rishintiw/soccer-event-classification-image-data-cnn-and-llm
+
+The dataset contains football images from the following classes:
+Corner Kick, Free Kick, Penalty Kick, Red Card, Yellow Card, Substitute, and Tackle.
